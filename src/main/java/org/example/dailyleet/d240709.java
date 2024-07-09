@@ -1,5 +1,6 @@
 package org.example.dailyleet;
 
+//https://leetcode.com/problems/average-waiting-time/
 public class d240709 {
 
     class Solution {
